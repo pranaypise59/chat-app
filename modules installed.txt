@@ -1,0 +1,8 @@
+npm install sass
+npm install --save-dev @babel/eslint-parser @babel/preset-react
+npm install eslint@latest
+npm install firebase@8.10.0
+npm install -D rimraf prettier babel-eslint eslint-plugin-react eslint-plugin-jsx-a11y eslint-plugin-import eslint-config-prettier eslint-config-airbnb eslint-plugin-react-hooks
+
+npm install rsuite@4.10.2
+npm install react-router-dom@5.2.0 react-router@5.2.0
